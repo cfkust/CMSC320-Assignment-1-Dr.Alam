@@ -10,3 +10,7 @@ Answer: Data science can be applied to many fields especially in financial insti
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines changes from one branch into another while preserving branch history. Rebasing on the other hand moves changes from one branch onto another and can rewrite the commit history of the rebased branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I really hope to improve working with databases and working with the pandas library and SQL.

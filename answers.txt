@@ -6,3 +6,7 @@ Answer: Git is useful due to its branching capability that allows multiple peopl
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to many fields especially in financial institutions where they can gather transaction data and historical data to detect fraudulent activity.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines changes from one branch into another while preserving branch history. Rebasing on the other hand moves changes from one branch onto another and can rewrite the commit history of the rebased branch.
